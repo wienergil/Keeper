@@ -5,8 +5,6 @@ import Note from "./note"
 import notes from "../notes"
 
 
-
-
 function App(){
     return (
         <div>

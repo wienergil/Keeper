@@ -28,6 +28,12 @@ const notes = [
       title: "Gil",
       content:
         "sdv ksnd vsdj vd k dsk"
+    },
+    {
+      key: 6,
+      title: "Tal",
+      content:
+        "vsdvs sd d s"
     }
   ];
   
